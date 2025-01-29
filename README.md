@@ -1,7 +1,5 @@
-Hi there 👋
-
-
-I'm Fajar Putra Setiawan a passionate developer from Yogyakarta, Indonesia. 
+<h1 align="center">Hi 👋, I'm Fajar</h1>
+<h3 align="center">A passionate developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Golang and Laravel**
 
