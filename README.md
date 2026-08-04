@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **fajar.putra1691@gmail.com**
 
-- ⚡ Fun fact **i think im ugly**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
